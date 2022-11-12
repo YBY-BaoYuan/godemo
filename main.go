@@ -1,6 +1,6 @@
 package main
 
-import "baoyuan/jilian"
+import "godemo/jilian"
 
 func main() {
 	jilian.Echo()

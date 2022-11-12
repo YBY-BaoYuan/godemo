@@ -1,3 +1,3 @@
-module baoyuan
+module godemo
 
 go 1.19
